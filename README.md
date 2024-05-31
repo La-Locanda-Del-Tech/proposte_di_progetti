@@ -7,6 +7,7 @@ Repository per contenere le issue con proposte e richieste di creazione progetti
 - la richiesta puo' essere votata, discussa, modificata 
 - se accettata, gli admin creeranno un repository vuoto, pubblico, dedicato al tuo progetto
 - Da quel momento sarai tu "owner" del repository e potrai gestirlo in autonomia
+- La richiesta viene chiusa 
 
 
 
